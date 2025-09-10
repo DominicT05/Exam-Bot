@@ -1,0 +1,4 @@
+gradio>=3.40
+openai>=1.32.0
+python-dotenv
+PyPDF2
